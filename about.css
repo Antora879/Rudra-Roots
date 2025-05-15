@@ -1,0 +1,249 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    /* width: 300px; */
+    background-color: black;
+
+}
+
+    /* navbar start  */
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    color: black;
+    border: 2px solid aqua;
+    background-color: black; 
+    z-index: 1000;
+}
+.logo{
+    color: white;
+    font-size: 40px;
+    padding-left: 70px;
+}
+.logo-name{
+    margin-top: -80px;
+    margin-left: 130px;
+}
+.logo img{
+    height: 90px;
+    width: 100px;
+    margin-top: -10px;
+}
+.link a{
+    color: whitesmoke;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px;
+}
+.link a:hover{
+    color:aqua;
+}
+span{
+    color: aqua;
+}
+
+
+   /* Background start  */
+
+
+.background{
+    height: 70vh;
+    margin-top: 100px;
+    background: 100%;
+    margin-bottom: 100px;
+}
+.back1 img{
+    height: 400px;
+    width: 400px;
+    border: 2px solid white;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 65px aqua;
+}
+.back2{
+    margin-top: -500px;
+    margin-left: 550px;
+}
+h4{
+    color: aliceblue;
+    font-size: 37px;
+    margin-left: 310px;
+    margin-top: 120px;
+}
+h5{
+    color: aliceblue;
+    font-size: 30px;
+    margin-left: 320px;
+    margin-top: 20px;
+}
+p{
+    color: aliceblue;
+    font-size: 20px;
+    text-align: center;
+    margin-top: -10px;
+}
+.background-icon img{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+.background-icon{
+    margin-left: 400px;
+}
+
+button{
+    height: 40px;
+    width: 200px;
+    font-size: 17px;
+    background-color: aqua;
+    box-shadow: 0px 0px 25px aqua;
+    border-radius: 20px;
+    margin-left: 380px;
+    margin-top: 30px;
+
+}
+button:hover{
+    background: transparent;
+    color: aliceblue;
+}
+h1{
+   font-size: 37px; 
+   color: aliceblue;
+   text-align: center;
+}
+
+
+  /* Journey section start  */
+
+
+.beginning{
+    display: flex;
+    height: 400px;
+    box-shadow: 0px 0px 15px 0px aqua;
+    margin-top: 50px;
+    justify-content: space-between;
+    gap: 100px;
+}
+.part1{
+  height: 300px;
+   width: 700px;
+   margin-left: 100px;
+  
+}
+.part2 img{
+   height: 300px;
+   width: 300px;
+   border-radius: 50%;
+   box-shadow: 0px 0px 65px aqua;
+   margin-top: 80px;
+   margin-left: -500px;
+   border: 2px solid white;
+
+}
+h2{
+  font-size: 30px;
+  color: aliceblue;
+   margin-top: 150px;
+   /* margin-left: 100px; */
+
+}
+h3{
+    color: aliceblue;
+}
+
+  /* javascript  */
+
+.javascript{
+    display: flex;
+    height: 400px;
+    box-shadow: 0px 0px 15px 0px aqua;
+    margin-top: 50px;
+    justify-content: space-between;
+    gap: 100px;
+}
+  
+.javascript .part1 img{
+   height: 300px;
+   width: 300px;
+   border-radius: 50%;
+   box-shadow: 0px 0px 65px aqua;
+   margin-top: 100px;
+   border: 2px solid white;
+  }
+.javascript h2{
+    font-size: 30px;
+     color: aliceblue;
+     margin-left: 150px;
+     margin-right: 100px;
+     width: 400px;
+}
+.javascript h3{
+     color: aliceblue;
+     margin-left: 150px;
+     margin-right: 100px;
+}
+
+  /* Frameworks  */
+
+  .frameworks{
+    display: flex;
+    height: 400px;
+    box-shadow: 0px 0px 15px 0px aqua;
+    margin-top: 50px;
+    justify-content: space-between;
+    gap: 100px;
+  }
+
+  .frameworks .part1 h2{
+     font-size: 30px;
+     color: aliceblue;
+     margin-top: 150px;
+  }
+  .frameworks .part1 h3{
+     color: aliceblue;
+  }
+
+    /* Design side start  */
+
+.design{
+    display: flex;
+    height: 400px;
+    box-shadow: 0px 0px 15px 0px aqua;
+    margin-top: 50px;
+    justify-content: space-between;
+    gap: 100px; 
+}
+.design .part1 img{
+    height: 300px;
+   width: 300px;
+   border-radius: 50%;
+   box-shadow: 0px 0px 65px aqua;
+   margin-top: 100px;
+   border: 2px solid white;
+}
+.design .part2 h2{
+     font-size: 30px;
+     color: aliceblue;
+     margin-top: 150px;
+    margin-left: 150px;
+
+}
+.design .part2 h3{
+    color: aliceblue;
+    margin-left: 150px;
+     margin-right: 100px;
+}
+
+ 
+
+
+ 

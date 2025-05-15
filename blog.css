@@ -1,0 +1,196 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    /* width: 300px; */
+    background-color: black;
+
+}
+
+    /* navbar start  */
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    color: black;
+    border: 2px solid aqua;
+    background-color: black; 
+    z-index: 1000;
+}
+.logo{
+    color: white;
+    font-size: 40px;
+    padding-left: 70px;
+}
+.logo-name{
+    margin-top: -80px;
+    margin-left: 130px;
+}
+.logo img{
+    height: 90px;
+    width: 100px;
+    margin-top: -10px;
+}
+.link a{
+    color: whitesmoke;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 15px;
+}
+.link a:hover{
+    color:aqua;
+}
+span{
+    color: aqua;
+}
+
+  /* Digital Marketing  */
+
+ h1{
+    font-size: 50px;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 150px;
+ }
+ h2{
+    color: aliceblue;
+    font-size: 30px;
+    margin-top: 50px;
+ }
+ p{
+    font-size: 20px;
+    color: aliceblue;
+ }
+ .box1{
+    height: 300px;
+    width: 600px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px aqua;
+    margin-left: 200px;
+    align-items: center;
+    text-align: center;
+    padding-top: 17px;
+    margin-bottom: 30px;
+ }
+ .box2{
+    height: 300px;
+    width: 600px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px aqua;
+    margin-left: 700px;
+    padding-top: 17px;
+    margin-bottom: 30px;
+    text-align: center;
+
+ }
+ .box3{
+    height: 300px;
+    width: 600px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px aqua;
+    margin-left: 200px;
+    padding-top: 17px;
+    margin-bottom: 30px;
+    text-align: center;
+ }
+ .box4{
+    height: 300px;
+    width: 600px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px aqua;
+    margin-left: 700px;
+    padding-top: 17px;
+    margin-bottom: 30px;
+    text-align: center;
+ }
+ .box5{
+    height: 300px;
+    width: 600px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px aqua;
+    margin-left: 200px;
+    padding-top: 17px;
+    margin-bottom: 30px;
+    text-align: center;
+ }
+ .box6{
+    height: 300px;
+    width: 600px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px aqua;
+    margin-left: 700px;
+    padding-top: 17px;
+    margin-bottom: 30px;
+    text-align: center;
+ }
+ .box7{
+    height: 300px;
+    width: 600px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px aqua;
+    margin-left: 200px;
+    padding-top: 17px;
+    text-align: center;
+ }
+    /* Fototer  */
+
+.footer{
+    height:600px;
+    width: 1300px;
+    margin-left: 100px;
+    box-shadow: 2px 2px 2px 2px aqua;
+    border-radius: 40px;
+    display: grid;
+    margin-top: 90px;
+    margin-bottom: 20px;
+}
+.footer1{
+    margin-left: 570px;
+}
+.footer-logo img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 20px 2px aqua;
+    margin-top: 50px;
+}
+.footer-logo h2{
+    color: aliceblue;
+    font-size: 35px;
+}
+
+.footer-link img{
+   
+    margin-right: 10px;
+}
+.address a p{
+    text-decoration: none;
+}
+.footer2{
+    display: flex;
+    justify-content: space-around;
+}
+.footer-link img{
+    height: 30px;
+    width: 30px;
+    border: 2px solid white;
+    border-radius: 50%;
+    box-shadow: 2px 2px 2px 2px aqua;
+}
+.address{
+    font-size: 25px;
+    color: aqua;
+}
+.footer2 p:hover{
+    color: aqua;
+    text-decoration: underline;
+}
+
+ 
+
+
